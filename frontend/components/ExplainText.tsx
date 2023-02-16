@@ -5,7 +5,7 @@ const ExplainText = () => (
     <div className="mx-auto max-w-md">
       <div className="divide-y divide-gray-300/50">
         <div className="space-y-6 py-8 text-base leading-7 text-gray-600">
-          <p>Ok, I'm just updating this a bit to test out the CI/CD flow!</p>
+          <p>"Ok, I'm just updating this a bit to test out the CI/CD flow!"</p>
           <p>Next steps:</p>
           <ul className="space-y-4">
             <li className="flex items-center">
